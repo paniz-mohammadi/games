@@ -1,0 +1,5 @@
+golsa,105
+gg,93
+goli,74
+behsa,66
+mahsa,23
